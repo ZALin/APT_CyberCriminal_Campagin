@@ -1,6 +1,6 @@
 ## APT & CyberCriminal Campaign Collection
 
-I collect data from [kbandla](https://github.com/kbandla/A) and other reseearchers.
+I collect data from [kbandla](https://github.com/kbandla/APTnotes) and other reseearchers.
 
 Please let me know if I lost some interesting APT or Malware campaigns.   
 
