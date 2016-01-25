@@ -5,6 +5,7 @@ I collect data from [kbandla](https://github.com/kbandla/APTnotes) and other res
 Please let me know if I lost some interesting APT or Malware campaigns.   
 
 ## 2016
+* Jan 24 - [Scarlet Mimic: Years-Long Espionage Campaign Targets Minority Activists](http://researchcenter.paloaltonetworks.com/2016/01/scarlet-mimic-years-long-espionage-targets-minority-activists/)  | [Local](https://github.com/gasgas4/APT_CyberCriminal_Campagin/blob/master/2016/2016.01.24_Scarlet_Minic)
 * Jan 19 - [360 SkyEye 2015 APT Annual Report](https://ti.360.com/upload/report/file/2015.APT.Annual_Report.pdf) | [Local](https://github.com/gasgas4/APT_CyberCriminal_Campagin/blob/master/2016/2016.01.19.360_APT_Report)
 * Jan 03 - [BlackEnergy by the SSHBearDoor: attacks against Ukrainian news media and electric industry](http://www.welivesecurity.com/2016/01/03/blackenergy-sshbeardoor-details-2015-attacks-ukrainian-news-media-electric-industry/) | [Local](https://github.com/gasgas4/APT_CyberCriminal_Campagin/blob/master/2016/2016.01.03.BlackEnergy_Ukrainian)
 
