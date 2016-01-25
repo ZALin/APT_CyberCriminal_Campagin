@@ -255,7 +255,7 @@ Please let me know if I lost some interesting APT or Malware campaigns.
 * Dec 02 - [njRAT, The Saga Continues](http://www.fidelissecurity.com/files/files/FTA%201010%20-%20njRAT%20The%20Saga%20Continues.pdf)
 * Nov 11 - [Supply Chain Analysis](http://www.fireeye.com/resources/pdfs/fireeye-malware-supply-chain.pdf)
 * Nov 10 - [Operation Ephemeral Hydra: IE Zero-Day Linked to DeputyDog Uses Diskless Method](http://www.fireeye.com/blog/technical/cyber-exploits/2013/11/operation-ephemeral-hydra-ie-zero-day-linked-to-deputydog-uses-diskless-method.html)
-* Oct 24 - [Terminator RAT](http://www.fireeye.com/blog/technical/malware-research/2013/10/evasive-tactics-terminator-rat.html) or [FakeM RAT](http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp-fakem-rat.pdf)
+* Oct 24 - [Terminator RAT](https://www.fireeye.com/blog/threat-research/2013/10/evasive-tactics-terminator-rat.html) or [FakeM RAT](http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp-fakem-rat.pdf) | [Local](https://github.com/gasgas4/APT_CyberCriminal_Campagin/blob/master/2013/2013.10.24)
 * Sep 30 - [World War C: State of affairs in the APT world](https://www.fireeye.com/blog/threat-research/2013/09/new-fireeye-report-world-war-c.html)
 * Sep 25 - [The 'ICEFROG' APT: A Tale of cloak and three daggers](http://www.securelist.com/en/downloads/vlpdfs/icefog.pdf)
 * Sep 17 - [Hidden Lynx - Professional Hackers for Hire](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/hidden_lynx.pdf)
