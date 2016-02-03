@@ -5,7 +5,9 @@ I collect data from [kbandla](https://github.com/kbandla/APTnotes) and other res
 Please let me know if I lost some interesting APT or Malware campaigns.   
 
 ## 2016
+
 * Jan 28 - [BlackEnergy APT Attacks in Ukraine employ spearphishing with Word documents](https://securelist.com/blog/research/73440/blackenergy-apt-attacks-in-ukraine-employ-spearphishing-with-word-documents/) | [Local](https://github.com/gasgas4/APT_CyberCriminal_Campagin/blob/master/2016/2016.01.28.BlackEnergy_APT)
+* Jan 27 - [Dissecting the Malware Involved in the INOCNATION Campaign](https://www.fidelissecurity.com/sites/default/files/FTA_1020_Fidelis_Inocnation_FINAL.pdf) | [Local](https://github.com/gasgas4/APT_CyberCriminal_Campagin/blob/master/2016/2016.01.27.Hi-Zor.RAT)
 * Jan 24 - [Scarlet Mimic: Years-Long Espionage Campaign Targets Minority Activists](http://researchcenter.paloaltonetworks.com/2016/01/scarlet-mimic-years-long-espionage-targets-minority-activists/)  | [Local](https://github.com/gasgas4/APT_CyberCriminal_Campagin/blob/master/2016/2016.01.24_Scarlet_Minic)
 * Jan 19 - [360 SkyEye 2015 APT Annual Report](https://ti.360.com/upload/report/file/2015.APT.Annual_Report.pdf) | [Local](https://github.com/gasgas4/APT_CyberCriminal_Campagin/blob/master/2016/2016.01.19.360_APT_Report)
 * Jan 07 - [RIGGING COMPROMISE - RIG EXPLOIT KIT](http://blog.talosintel.com/2016/01/rigging-compromise.html) | [Local](https://github.com/gasgas4/APT_CyberCriminal_Campagin/blob/master/2016/2016.01.07.rigging-compromise)
