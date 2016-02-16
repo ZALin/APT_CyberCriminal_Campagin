@@ -6,6 +6,7 @@ Please let me know if I lost some interesting APT or Malware campaigns.
 
 ## 2016
 * Feb 12 - [A Look Into Fysbis: Sofacy’s Linux Backdoor](http://researchcenter.paloaltonetworks.com/2016/02/a-look-into-fysbis-sofacys-linux-backdoor/) | [Local](https://github.com/gasgas4/APT_CyberCriminal_Campagin/blob/master/2016/2016.02.12.Fysbis_Sofacy_Linux_Backdoor)
+* Feb 11 - [Hacktivism: India vs. Pakistan](https://www.recordedfuture.com/india-pakistan-cyber-rivalry/) | [Local](https://github.com/gasgas4/APT_CyberCriminal_Campagin/blob/master/2016/2016.02.11.Hacktivism_India_vs_Pakistan)
 * Feb 09 - [Poseidon Group: a Targeted Attack Boutique specializing in global cyber-espionage](https://securelist.com/blog/research/73673/poseidon-group-a-targeted-attack-boutique-specializing-in-global-cyber-espionage/) | [Local](https://github.com/gasgas4/APT_CyberCriminal_Campagin/blob/master/2016/2016.02.09_Poseidon_APT_Boutique)
 * Feb 01 - [Massive Admedia/Adverting iFrame Infection](https://blog.sucuri.net/2016/02/massive-admedia-iframe-javascript-infection.html) | [Local](https://github.com/gasgas4/APT_CyberCriminal_Campagin/blob/master/2016/2016.02.01.Massive_Admedia_Adverting_iFrame_Infection)
 * Feb 01 - [Organized Cybercrime Big in Japan: URLZone Now on the Scene](https://securityintelligence.com/organized-cybercrime-big-in-japan-urlzone-now-on-the-scene/) | [Local](https://github.com/gasgas4/APT_CyberCriminal_Campagin/blob/master/2016/2016.02.01.URLzone_Team)
