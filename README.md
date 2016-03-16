@@ -5,6 +5,9 @@ I collect data from [kbandla](https://github.com/kbandla/APTnotes) and other res
 Please let me know if I lost some interesting APT or Malware campaigns.   
 
 ## 2016
+
+* Mar 15 - [Suckfly: Revealing the secret life of your code signing certificates](http://www.symantec.com/connect/blogs/suckfly-revealing-secret-life-your-code-signing-certificates) | [Local](https://github.com/gasgas4/APT_CyberCriminal_Campagin/blob/master/2016/2016.03.15.Suckfly)
+* Mar 03 - [Shedding Light on BlackEnergy With Open Source Intelligence](https://www.recordedfuture.com/blackenergy-malware-analysis/) [Local](https://github.com/gasgas4/APT_CyberCriminal_Campagin/blob/master/2016/2016.03.03.Shedding_Light_BlackEnergy)
 * Feb 24 - [Operation Blockbuster](https://www.operationblockbuster.com/wp-content/uploads/2016/02/Operation-Blockbuster-Report.pdf) | [Local](https://github.com/gasgas4/APT_CyberCriminal_Campagin/blob/master/2016/2016.02.24.Operation_Blockbuster)
 * Feb 23 - [OPERATION
 DUST STORM](https://www.cylance.com/hubfs/2015_cylance_website/assets/operation-dust-storm/Op_Dust_Storm_Report.pdf?t=1456355696065) | [Local](https://github.com/gasgas4/APT_CyberCriminal_Campagin/blob/master/2016/2016.02.23.Operation_Dust_Storm)
@@ -126,7 +129,7 @@ DUST STORM](https://www.cylance.com/hubfs/2015_cylance_website/assets/operation-
 * Mar 06 - [Animals in the APT Farm](http://securelist.com/blog/research/69114/animals-in-the-apt-farm/)
 * Mar 05 - [Casper Malware: After Babar and Bunny, Another Espionage Cartoon](http://www.welivesecurity.com/2015/03/05/casper-malware-babar-bunny-another-espionage-cartoon)
 * Feb 24 - [A deeper look into Scanbox](http://pwc.blogs.com/cyber_security_updates/2015/02/a-deeper-look-into-scanbox.html)
-* Feb 27 - [The Anthem Hack: All Roads Lead to China](http://www.threatconnect.com/news/the-anthem-hack-all-roads-lead-to-china/)
+* Feb 27 - [The Anthem Hack: All Roads Lead to China](http://www.threatconnect.com/news/the-anthem-hack-all-roads-lead-to-china/) | [Local](https://github.com/gasgas4/APT_CyberCriminal_Campagin/blob/master/2015/2015.02.27.The_Anthem_Hack_All_Roads_Lead_to_China)
 * Feb 25 - [Southeast Asia: An Evolving Cyber Threat Landscape](https://www.fireeye.com/content/dam/fireeye-www/current-threats/pdfs/rpt-southeast-asia-threat-landscape.pdf)
 * Feb 25 - [PlugX goes to the registry (and India)](http://blogs.sophos.com/2015/02/25/sophoslabs-research-uncovers-new-developments-in-plugx-apt-malware/)
 * Feb 18 - [Babar: espionage software finally found and put under the microscope](https://blog.gdatasoftware.com/blog/article/babar-espionage-software-finally-found-and-put-under-the-microscope.html)
