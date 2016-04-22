@@ -5,6 +5,7 @@ I collect data from [kbandla](https://github.com/kbandla/APTnotes) and other res
 Please let me know if I lost some interesting APT or Malware campaigns.   
 
 ## 2016
+* Apr 21 - [Teaching an old RAT new tricks](https://www.sentinelone.com/blogs/teaching-an-old-rat-new-tricks/) | [Local](../../blob/master/2016/2016.04.21.Teaching_an_old_RAT_new_tricks/)
 * Apr 21 - [New Poison Ivy RAT Variant Targets Hong Kong Pro-Democracy Activists](http://researchcenter.paloaltonetworks.com/2016/04/unit42-new-poison-ivy-rat-variant-targets-hong-kong-pro-democracy-activists/) | [Local](../../blob/master/2016/2016.04.21.New_Poison_Ivy_RAT_Variant_Targets_Hong_Kong/)
 * Apr 18 - [Between Hong Kong and Burma: Tracking UP007 and SLServer Espionage Campaigns](https://citizenlab.org/2016/04/between-hong-kong-and-burma/) | [Local](../../blob/master/2016/2016.04.18.UP007/)
 * Apr 15 - [Detecting and Responding Pandas and Bears](http://files.sans.org/summit/Threat_Hunting_Incident_Response_Summit_2016/PDFs/Detecting-and-Responding-to-Pandas-and-Bears-Christopher-Scott-CrowdStrike-and-Wendi-Whitmore-IBM.pdf) | [Local](../../blob/master/2016/2016.04.15.pandas_and_bears/)
