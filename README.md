@@ -247,7 +247,7 @@ Please let me know if I lost some interesting APT or Malware campaigns.
 * Jul 31 - [Energetic Bear/Crouching Yeti Appendix](http://25zbkz3k00wn2tp5092n6di7b5k.wpengine.netdna-cdn.com/files/2014/07/Kaspersky_Lab_crouching_yeti_appendixes_eng_final.pdf)
 * Jul 31 - [Energetic Bear/Crouching Yeti](https://kasperskycontenthub.com/securelist/files/2014/07/EB-YetiJuly2014-Public.pdf)
 * Jul 20 - [Sayad (Flying Kitten) Analysis & IOCs](http://vinsula.com/2014/07/20/sayad-flying-kitten-infostealer-malware/)
-* Jul 11 - [Pitty Tiger](https://bitbucket.org/cybertools/whitepapers/downloads/Pitty%20Tiger%20Final%20Report.pdf) | [Local](../../blob/master//2016/2016.02.12.Fysbis_Sofacy_Linux_Backdoor)
+* Jul 11 - [Pitty Tiger](https://bitbucket.org/cybertools/whitepapers/downloads/Pitty%20Tiger%20Final%20Report.pdf) | [Local](../../blob/master/2014/2014.07.11.Pitty_Tiger)
 * Jul 10 - [TR-25 Analysis - Turla / Pfinet / Snake/ Uroburos](http://www.circl.lu/pub/tr-25/)
 * Jul 07 - [Deep Pandas](http://blog.crowdstrike.com/deep-thought-chinese-targeting-national-security-think-tanks/)
 * Jun 10 - [Anatomy of the Attack: Zombie Zero](http://www.trapx.com/wp-content/uploads/2014/07/TrapX_ZOMBIE_Report_Final.pdf)
