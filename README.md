@@ -237,7 +237,7 @@ Please let me know if I lost some interesting APT or Malware campaigns.
 * Aug 27 - [NetTraveler APT Gets a Makeover for 10th Birthday](https://securelist.com/blog/research/66272/nettraveler-apt-gets-a-makeover-for-10th-birthday/)
 * Aug 25 - [Vietnam APT Campaign](http://blog.malwaremustdie.org/2014/08/another-country-sponsored-malware.html)
 * Aug 20 - [El Machete](https://securelist.com/blog/research/66108/el-machete/)
-* Aug 18 - [The Syrian Malware House of Cards](https://securelist.com/blog/research/66051/the-syrian-malware-house-of-cards/)
+* Aug 18 - [The Syrian Malware House of Cards](https://securelist.com/blog/research/66051/the-syrian-malware-house-of-cards/) | [Local](../../blob/master//2014/2014.08.18.Syrian_Malware_House_of_Cards)
 * Aug 13 - [A Look at Targeted Attacks Through the Lense of an NGO](http://www.mpi-sws.org/~stevens/pubs/sec14.pdf) | [Local](../../blob/master//2014/2014.08.13.TargetAttack.NGO)
 * Aug 12 - [New York Times Attackers Evolve Quickly (Aumlib/Ixeshe/APT12)](http://www.fireeye.com/blog/technical/2013/08/survival-of-the-fittest-new-york-times-attackers-evolve-quickly.html)
 * Aug 07 - [The Epic Turla Operation Appendix](https://securelist.com/files/2014/08/KL_Epic_Turla_Technical_Appendix_20140806.pdf)
