@@ -249,7 +249,7 @@ Please let me know if I lost some interesting APT or Malware campaigns.
 * Jul 20 - [Sayad (Flying Kitten) Analysis & IOCs](http://vinsula.com/2014/07/20/sayad-flying-kitten-infostealer-malware/)
 * Jul 11 - [Pitty Tiger](https://bitbucket.org/cybertools/whitepapers/downloads/Pitty%20Tiger%20Final%20Report.pdf) | [Local](../../blob/master/2014/2014.07.11.Pitty_Tiger)
 * Jul 10 - [TR-25 Analysis - Turla / Pfinet / Snake/ Uroburos](http://www.circl.lu/pub/tr-25/)
-* Jul 07 - [Deep Pandas](http://blog.crowdstrike.com/deep-thought-chinese-targeting-national-security-think-tanks/)
+* Jul 07 - [Deep Pandas, Deep in Thought: Chinese Targeting of National Security Think Tanks](http://blog.crowdstrike.com/deep-thought-chinese-targeting-national-security-think-tanks/) | [Local](../../blob/master/2014/2014.07.07.Deep_in_Thought)
 * Jun 10 - [Anatomy of the Attack: Zombie Zero](http://www.trapx.com/wp-content/uploads/2014/07/TrapX_ZOMBIE_Report_Final.pdf)
 * Jun 30 - [Dragonfly: Cyberespionage Attacks Against Energy Suppliers](http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/Dragonfly_Threat_Against_Western_Energy_Suppliers.pdf)
 * Jun 20 - [Embassy of Greece Beijing](http://thegoldenmessenger.blogspot.de/2014/06/blitzanalysis-embassy-of-greece-beijing.html)
