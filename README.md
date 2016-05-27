@@ -5,6 +5,7 @@ I collect data from [kbandla](https://github.com/kbandla/APTnotes) and other res
 Please let me know if I lost some interesting APT or Malware campaigns.   
 
 ## 2016
+* May 26 - [The OilRig Campaign: Attacks on Saudi Arabian Organizations Deliver Helminth Backdoor](http://researchcenter.paloaltonetworks.com/2016/05/the-oilrig-campaign-attacks-on-saudi-arabian-organizations-deliver-helminth-backdoor/) | [Local](../../blob/master/2016/2016.05.26.OilRig_Campaign/)
 * May 25 - [CVE-2015-2545: overview of current threats](https://securelist.com/analysis/publications/74828/cve-2015-2545-overview-of-current-threats/) | [Local](../../blob/master/2016/2016.05.25.CVE-2015-2545/)
 * May 22 - [Operation Ke3chang Resurfaces With New TidePool Malware](http://researchcenter.paloaltonetworks.com/2016/05/operation-ke3chang-resurfaces-with-new-tidepool-malware/) | [Local](../../blob/master/2016/2016.05.22.Operation_Ke3chang_Resurfaces_With_New_TidePool_Malware/)
 * May 17 - [Indian organizations targeted in Suckfly attacks](http://www.symantec.com/connect/ko/blogs/indian-organizations-targeted-suckfly-attacks) | [Local](../../blob/master/2016/2016.05.17.Indian_organizations_targeted_in_Suckfly_attacks/)
