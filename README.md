@@ -6,10 +6,12 @@ Please let me know if I lost some interesting APT or Malware campaigns.
 
 ## 2016
 * Jun 21 - [Redline Drawn: China Recalculates Its Use of Cyber Espionage]( https://www.fireeye.com/content/dam/fireeye-www/current-threats/pdfs/rpt-china-espionage.pdf) - [Local](../../blob/master/2016/2016.06.21.Redline_Drawn_China_Recalculates_Its_Use_of_Cyber_Espionage)
+* Jun 09 - [Operation DustySky Part 2](http://www.clearskysec.com/wp-content/uploads/2016/06/Operation-DustySky2_-6.2016_TLP_White.pdf) | [Local](../../blob/master/2016/2016.06.09.Operation_DustySky_II/)
 * Jun 02 - [FastPOS: Quick and Easy Credit Card Theft](http://documents.trendmicro.com/assets/fastPOS-quick-and-easy-credit-card-theft.pdf) | [Local](../../blob/master/2016/2016.06.02.fastpos-quick-and-easy-credit-card-theft/)
 * May 27 - [IXESHE Derivative IHEATE Targets Users in America](http://blog.trendmicro.com/trendlabs-security-intelligence/ixeshe-derivative-iheate-targets-users-america/) | [Local](../../blob/master/2016/2016.05.27.IXESHE_Derivative_IHEATE_Targets_Users_in_America/)
 * May 26 - [The OilRig Campaign: Attacks on Saudi Arabian Organizations Deliver Helminth Backdoor](http://researchcenter.paloaltonetworks.com/2016/05/the-oilrig-campaign-attacks-on-saudi-arabian-organizations-deliver-helminth-backdoor/) | [Local](../../blob/master/2016/2016.05.26.OilRig_Campaign/)
 * May 25 - [CVE-2015-2545: overview of current threats](https://securelist.com/analysis/publications/74828/cve-2015-2545-overview-of-current-threats/) | [Local](../../blob/master/2016/2016.05.25.CVE-2015-2545/)
+* May 23 - [APT Case RUAG Technical Report](https://www.melani.admin.ch/dam/melani/en/dokumente/2016/technical%20report%20ruag.pdf.download.pdf/Report_Ruag-Espionage-Case.pdf) | [Local](../../blob/master/2016/2016.05.23.APT_Case_RUAG)
 * May 22 - [Operation Ke3chang Resurfaces With New TidePool Malware](http://researchcenter.paloaltonetworks.com/2016/05/operation-ke3chang-resurfaces-with-new-tidepool-malware/) | [Local](../../blob/master/2016/2016.05.22.Operation_Ke3chang_Resurfaces_With_New_TidePool_Malware/)
 * May 18 - [Operation Groundbait: Analysis of a surveillance toolkit](http://www.welivesecurity.com/wp-content/uploads/2016/05/Operation-Groundbait.pdf) | [Local](../../blob/master/2016/2016.05.18.Operation_Groundbait/)
 * May 17 - [Mofang: A politically motivated information stealing adversary](https://foxitsecurity.files.wordpress.com/2016/06/fox-it_mofang_threatreport_tlp-white.pdf)  | [Local](../../blob/master/2016/2016.05.17.Mofang)
