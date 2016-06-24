@@ -7,7 +7,8 @@ Please let me know if I lost some interesting APT or Malware campaigns.
 
 
 ## 2016
-* Jun 21 - [Redline Drawn: China Recalculates Its Use of Cyber Espionage]( https://www.fireeye.com/content/dam/fireeye-www/current-threats/pdfs/rpt-china-espionage.pdf) - [Local](../../blob/master/2016/2016.06.21.Redline_Drawn_China_Recalculates_Its_Use_of_Cyber_Espionage)
+* Jun 21 - [The Curious Case of an Unknown Trojan Targeting German-Speaking Users](https://blog.fortinet.com/2016/06/21/the-curious-case-of-an-unknown-trojan-targeting-german-speaking-users) | [Local](../../blob/master/2016/2016.06.21.Unknown_Trojan_Targeting_German_Speaking_Users)
+* Jun 21 - [Redline Drawn: China Recalculates Its Use of Cyber Espionage]( https://www.fireeye.com/content/dam/fireeye-www/current-threats/pdfs/rpt-china-espionage.pdf) | [Local](../../blob/master/2016/2016.06.21.Redline_Drawn_China_Recalculates_Its_Use_of_Cyber_Espionage)
 * Jun 09 - [Operation DustySky Part 2](http://www.clearskysec.com/wp-content/uploads/2016/06/Operation-DustySky2_-6.2016_TLP_White.pdf) | [Local](../../blob/master/2016/2016.06.09.Operation_DustySky_II/)
 * Jun 02 - [FastPOS: Quick and Easy Credit Card Theft](http://documents.trendmicro.com/assets/fastPOS-quick-and-easy-credit-card-theft.pdf) | [Local](../../blob/master/2016/2016.06.02.fastpos-quick-and-easy-credit-card-theft/)
 * May 27 - [IXESHE Derivative IHEATE Targets Users in America](http://blog.trendmicro.com/trendlabs-security-intelligence/ixeshe-derivative-iheate-targets-users-america/) | [Local](../../blob/master/2016/2016.05.27.IXESHE_Derivative_IHEATE_Targets_Users_in_America/)
