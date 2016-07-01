@@ -7,6 +7,7 @@ Please let me know if I lost some interesting APT or Malware campaigns.
 
 
 ## 2016
+* Jun 30 - [Asruex: Malware Infecting through Shortcut Files](http://blog.jpcert.or.jp/2016/06/asruex-malware-infecting-through-shortcut-files.html) | [Local](../../blob/master/2016/2016.06.30.Asruex)
 * Jun 28 - [Prince of Persia – Game Over](http://researchcenter.paloaltonetworks.com/2016/06/unit42-prince-of-persia-game-over/) |  [Local](../../blob/master/2016/2016.06.28.prince-of-persia-game-over)
 * Jun 23 - [Tracking Elirks Variants in Japan: Similarities to Previous Attacks](http://researchcenter.paloaltonetworks.com/2016/06/unit42-tracking-elirks-variants-in-japan-similarities-to-previous-attacks/) | [Local](../../blob/master/2016/2016.06.23.Tracking_Elirks_Variants_in_Japan)
 * Jun 21 - [The Curious Case of an Unknown Trojan Targeting German-Speaking Users](https://blog.fortinet.com/2016/06/21/the-curious-case-of-an-unknown-trojan-targeting-german-speaking-users) | [Local](../../blob/master/2016/2016.06.21.Unknown_Trojan_Targeting_German_Speaking_Users)
