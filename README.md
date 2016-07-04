@@ -7,6 +7,7 @@ Please let me know if I lost some interesting APT or Malware campaigns.
 
 
 ## 2016
+* Jul 01 - [Espionage toolkit targeting Central and Eastern Europe uncovered](http://www.welivesecurity.com/2016/07/01/espionage-toolkit-targeting-central-eastern-europe-uncovered/)  | [Local](../../blob/master/2016/2016.07.01.SBDH_toolkit_targeting_Central_and_Eastern_Europe)
 * Jun 30 - [Asruex: Malware Infecting through Shortcut Files](http://blog.jpcert.or.jp/2016/06/asruex-malware-infecting-through-shortcut-files.html) | [Local](../../blob/master/2016/2016.06.30.Asruex)
 * Jun 28 - [Prince of Persia – Game Over](http://researchcenter.paloaltonetworks.com/2016/06/unit42-prince-of-persia-game-over/) |  [Local](../../blob/master/2016/2016.06.28.prince-of-persia-game-over)
 * Jun 23 - [Tracking Elirks Variants in Japan: Similarities to Previous Attacks](http://researchcenter.paloaltonetworks.com/2016/06/unit42-tracking-elirks-variants-in-japan-similarities-to-previous-attacks/) | [Local](../../blob/master/2016/2016.06.23.Tracking_Elirks_Variants_in_Japan)
