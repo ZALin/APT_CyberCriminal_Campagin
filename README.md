@@ -9,6 +9,7 @@ Please let me know if I lost some interesting APT or Malware campaigns.
 
 
 ## 2016
+* Jul 03 - [From HummingBad to Worse ](http://blog.checkpoint.com/wp-content/uploads/2016/07/HummingBad-Research-report_FINAL-62916.pdf) |  [Local](../../blob/master/2016/2016.07.03_From_HummingBad_to_Worse)
 * Jul 01 - [Pacifier APT](http://download.bitdefender.com/resources/files/News/CaseStudies/study/115/Bitdefender-Whitepaper-PAC-A4-en-EN1.pdf) | [Local](../../blob/master/2016/2016.07.01.Bitdefender_Pacifier_APT)
 * Jul 01 - [Espionage toolkit targeting Central and Eastern Europe uncovered](http://www.welivesecurity.com/2016/07/01/espionage-toolkit-targeting-central-eastern-europe-uncovered/)  | [Local](../../blob/master/2016/2016.07.01.SBDH_toolkit_targeting_Central_and_Eastern_Europe)
 * Jun 30 - [Asruex: Malware Infecting through Shortcut Files](http://blog.jpcert.or.jp/2016/06/asruex-malware-infecting-through-shortcut-files.html) | [Local](../../blob/master/2016/2016.06.30.Asruex)
@@ -22,6 +23,7 @@ Please let me know if I lost some interesting APT or Malware campaigns.
 * May 27 - [IXESHE Derivative IHEATE Targets Users in America](http://blog.trendmicro.com/trendlabs-security-intelligence/ixeshe-derivative-iheate-targets-users-america/) | [Local](../../blob/master/2016/2016.05.27.IXESHE_Derivative_IHEATE_Targets_Users_in_America/)
 * May 26 - [The OilRig Campaign: Attacks on Saudi Arabian Organizations Deliver Helminth Backdoor](http://researchcenter.paloaltonetworks.com/2016/05/the-oilrig-campaign-attacks-on-saudi-arabian-organizations-deliver-helminth-backdoor/) | [Local](../../blob/master/2016/2016.05.26.OilRig_Campaign/)
 * May 25 - [CVE-2015-2545: overview of current threats](https://securelist.com/analysis/publications/74828/cve-2015-2545-overview-of-current-threats/) | [Local](../../blob/master/2016/2016.05.25.CVE-2015-2545/)
+* May 24 - [New Wekby Attacks Use DNS Requests As Command and Control Mechanism](http://researchcenter.paloaltonetworks.com/2016/05/unit42-new-wekby-attacks-use-dns-requests-as-command-and-control-mechanism/)  | [Local](../../blob/master/2016/2016.05.24.New_Wekby_Attacks)
 * May 23 - [APT Case RUAG Technical Report](https://www.melani.admin.ch/dam/melani/en/dokumente/2016/technical%20report%20ruag.pdf.download.pdf/Report_Ruag-Espionage-Case.pdf) | [Local](../../blob/master/2016/2016.05.23.APT_Case_RUAG)
 * May 22 - [TARGETED ATTACKS AGAINST BANKS IN THE MIDDLE EAST](https://www.fireeye.com/blog/threat-research/2016/05/targeted_attacksaga.html) | [Local](../../blob/master/2016/2016.05.22.Targeted_Attacks_Against_Banks_in_Middle_East)
 * May 22 - [Operation Ke3chang Resurfaces With New TidePool Malware](http://researchcenter.paloaltonetworks.com/2016/05/operation-ke3chang-resurfaces-with-new-tidepool-malware/) | [Local](../../blob/master/2016/2016.05.22.Operation_Ke3chang_Resurfaces_With_New_TidePool_Malware/)
