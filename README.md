@@ -10,6 +10,7 @@ Please let me know if I lost some interesting APT or Malware campaigns.
 
 ## 2016
 * Jul 13 - [State-Sponsored SCADA Malware targeting European Energy Companies](https://sentinelone.com/blogs/sfg-furtims-parent/) | [Local](../../blob/master/2016/2016.07.13.State-Sponsored_SCADA_Malware_targeting_European_Energy_Companies)
+* Jul 08 - [The Dropping Elephant – aggressive cyber-espionage in the Asian region](https://securelist.com/blog/research/75328/the-dropping-elephant-actor/) | [Local](../../blob/master/2016/2016.07.08.The_Dropping_Elephant)
 * Jul 07 - [UNVEILING PATCHWORK: THE COPY-PASTE APT](https://www.cymmetria.com/wp-content/uploads/2016/07/Unveiling-Patchwork.pdf) | [Local](../../blob/master/2016/2016.07.07.UNVEILING_PATCHWORK)
 * Jul 03 - [From HummingBad to Worse ](http://blog.checkpoint.com/wp-content/uploads/2016/07/HummingBad-Research-report_FINAL-62916.pdf) |  [Local](../../blob/master/2016/2016.07.03_From_HummingBad_to_Worse)
 * Jul 01 - [Pacifier APT](http://download.bitdefender.com/resources/files/News/CaseStudies/study/115/Bitdefender-Whitepaper-PAC-A4-en-EN1.pdf) | [Local](../../blob/master/2016/2016.07.01.Bitdefender_Pacifier_APT)
