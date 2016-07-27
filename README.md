@@ -10,6 +10,7 @@ Please let me know if I lost some interesting APT or Malware campaigns.
 
 ## 2016
 * Jul 28 - [ICIT Briefing: China’s Espionage Dynasty](http://icitech.org/wp-content/uploads/2016/07/ICIT-Brief-China-Espionage-Dynasty.pdf) | [Local](../../blob/master/2016/2016.07.28.China_Espionage_Dynasty)
+* Jul 21 - [Sphinx (APT-C-15) Targeted cyber-attack in the Middle East](https://ti.360.com/upload/report/file/rmsxden20160721.pdf) | [Local](../../blob/master/2016/2016.07.21.Sphinx_Targeted_cyber-attack_in_the_Middle_East)
 * Jul 21 - [Hide and Seek: How Threat Actors Respond in the Face of Public Exposure](https://www.rsaconference.com/writable/presentations/file_upload/tta1-f04_hide-and-seek-how-threat-actors-respond-in-the-face-of-public-exposure.pdf) | [Local](../../blob/master/2016/2016.07.21.Hide_and_Seek)
 * Jul 13 - [State-Sponsored SCADA Malware targeting European Energy Companies](https://sentinelone.com/blogs/sfg-furtims-parent/) | [Local](../../blob/master/2016/2016.07.13.State-Sponsored_SCADA_Malware_targeting_European_Energy_Companies)
 * Jul 08 - [The Dropping Elephant – aggressive cyber-espionage in the Asian region](https://securelist.com/blog/research/75328/the-dropping-elephant-actor/) | [Local](../../blob/master/2016/2016.07.08.The_Dropping_Elephant)
