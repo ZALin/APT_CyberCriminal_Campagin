@@ -9,6 +9,7 @@ Please let me know if I lost some interesting APT or Malware campaigns.
 
 
 ## 2016
+* Aug 02 - [Group5: Syria and the Iranian Connection](https://citizenlab.org/2016/08/group5-syria/) | [Local](../../blob/master/2016/2016.08.02.group5-syria)
 * Jul 28 - [ICIT Briefing: China’s Espionage Dynasty](http://icitech.org/wp-content/uploads/2016/07/ICIT-Brief-China-Espionage-Dynasty.pdf) | [Local](../../blob/master/2016/2016.07.28.China_Espionage_Dynasty)
 * Jul 26 - [Attack Delivers ‘9002’ Trojan Through Google Drive](http://researchcenter.paloaltonetworks.com/2016/07/unit-42-attack-delivers-9002-trojan-through-google-drive/) | [Local](../../blob/master/2016/2016.07.26.Attack_Delivers_9002_Trojan_Through_Google_Drive)
 * Jul 21 - [Sphinx (APT-C-15) Targeted cyber-attack in the Middle East](https://ti.360.com/upload/report/file/rmsxden20160721.pdf) | [Local](../../blob/master/2016/2016.07.21.Sphinx_Targeted_cyber-attack_in_the_Middle_East)
