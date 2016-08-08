@@ -9,6 +9,7 @@ Please let me know if I lost some interesting APT or Malware campaigns.
 
 
 ## 2016
+* Aug 07 - [Strider: Cyberespionage group turns eye of Sauron on targets](http://www.symantec.com/connect/blogs/strider-cyberespionage-group-turns-eye-sauron-targets) | [Local](../../blob/master/2016/2016.08.07.Strider_Cyberespionage_group_turns_eye_of_Sauron_on_targets)
 * Aug 02 - [Group5: Syria and the Iranian Connection](https://citizenlab.org/2016/08/group5-syria/) | [Local](../../blob/master/2016/2016.08.02.group5-syria)
 * Jul 28 - [ICIT Briefing: China’s Espionage Dynasty](http://icitech.org/wp-content/uploads/2016/07/ICIT-Brief-China-Espionage-Dynasty.pdf) | [Local](../../blob/master/2016/2016.07.28.China_Espionage_Dynasty)
 * Jul 26 - [Attack Delivers ‘9002’ Trojan Through Google Drive](http://researchcenter.paloaltonetworks.com/2016/07/unit-42-attack-delivers-9002-trojan-through-google-drive/) | [Local](../../blob/master/2016/2016.07.26.Attack_Delivers_9002_Trojan_Through_Google_Drive)
