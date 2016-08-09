@@ -9,6 +9,7 @@ Please let me know if I lost some interesting APT or Malware campaigns.
 
 
 ## 2016
+* Aug 08 - [ProjectSauron: top level cyber-espionage platform covertly extracts encrypted government comms](https://securelist.com/analysis/publications/75533/faq-the-projectsauron-apt/)  | [Local](../../blob/master/2016/2016.08.08.ProjectSauron)
 * Aug 07 - [Strider: Cyberespionage group turns eye of Sauron on targets](http://www.symantec.com/connect/blogs/strider-cyberespionage-group-turns-eye-sauron-targets) | [Local](../../blob/master/2016/2016.08.07.Strider_Cyberespionage_group_turns_eye_of_Sauron_on_targets)
 * Aug 02 - [Group5: Syria and the Iranian Connection](https://citizenlab.org/2016/08/group5-syria/) | [Local](../../blob/master/2016/2016.08.02.group5-syria)
 * Jul 28 - [ICIT Briefing: China’s Espionage Dynasty](http://icitech.org/wp-content/uploads/2016/07/ICIT-Brief-China-Espionage-Dynasty.pdf) | [Local](../../blob/master/2016/2016.07.28.China_Espionage_Dynasty)
