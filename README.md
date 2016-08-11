@@ -9,7 +9,7 @@ Please let me know if I lost some interesting APT or Malware campaigns.
 
 
 ## 2016
-
+* Aug 11 - [Iran and the Soft War for Internet Dominance](https://iranthreats.github.io/us-16-Guarnieri-Anderson-Iran-And-The-Soft-War-For-Internet-Dominance-paper.pdf) | [Local](../../blob/master/2016/2016.08.11.Iran-And-The-Soft-War-For-Internet-Dominance)
 * Aug 08 - [ProjectSauron: top level cyber-espionage platform covertly extracts encrypted government comms](https://securelist.com/analysis/publications/75533/faq-the-projectsauron-apt/)  | [Local](../../blob/master/2016/2016.08.08.ProjectSauron)
 * Aug 07 - [Strider: Cyberespionage group turns eye of Sauron on targets](http://www.symantec.com/connect/blogs/strider-cyberespionage-group-turns-eye-sauron-targets) | [Local](../../blob/master/2016/2016.08.07.Strider_Cyberespionage_group_turns_eye_of_Sauron_on_targets)
 * Aug 04 - [Running for Office: Russian APT Toolkits Revealed](https://www.recordedfuture.com/russian-apt-toolkits/) | [Local](../../blob/master/2016/2016.08.04.russian-apt-toolkits)
