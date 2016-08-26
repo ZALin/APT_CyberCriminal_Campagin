@@ -10,6 +10,7 @@ Please let me know if I lost some interesting APT or Malware campaigns.
 
 ## 2016
 * Aug 25 - [Technical Analysis of Pegasus Spyware](https://info.lookout.com/rs/051-ESQ-475/images/lookout-pegasus-technical-analysis.pdf) | [Local](../../blob/master/2016/2016.08.25.lookout-pegasus-technical-analysis)
+* Aug 24 - [The Million Dollar Dissident: NSO Group’s iPhone Zero-Days used against a UAE Human Rights Defender](https://citizenlab.org/2016/08/million-dollar-dissident-iphone-zero-day-nso-group-uae/) | [Local](../../blob/master/2016/2016.08.24.million-dollar-dissident-iphone-zero-day-nso-group-uae)
 * Aug 17 - [Operation Ghoul: targeted attacks on industrial and engineering organizations](https://securelist.com/blog/research/75718/operation-ghoul-targeted-attacks-on-industrial-and-engineering-organizations/) | [Local](../../blob/master/2016/2016.08.17_operation-ghoul)
 * Aug 16 - [Aveo Malware Family Targets Japanese Speaking Users](http://researchcenter.paloaltonetworks.com/2016/08/unit42-aveo-malware-family-targets-japanese-speaking-users/) | [Local](../../blob/master/2016/2016.08.16.aveo-malware-family-targets-japanese)
 * Aug 11 - [Iran and the Soft War for Internet Dominance](https://iranthreats.github.io/us-16-Guarnieri-Anderson-Iran-And-The-Soft-War-For-Internet-Dominance-paper.pdf) | [Local](../../blob/master/2016/2016.08.11.Iran-And-The-Soft-War-For-Internet-Dominance)
