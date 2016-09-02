@@ -9,6 +9,7 @@ Please let me know if I lost some interesting APT or Malware campaigns.
 
 
 ## 2016
+* Sep 01 - [MALWARE POSING AS HUMAN RIGHTS ORGANIZATIONS AND COMMERCIAL SOFTWARE TARGETING IRANIANS, FOREIGN POLICY INSTITUTIONS AND MIDDLE EASTERN COUNTRIES](https://iranthreats.github.io/resources/human-rights-impersonation-malware/) | [Local](../../blob/master/2016/2016.09.01.human-rights-impersonation-malware)
 * Aug 25 - [Technical Analysis of Pegasus Spyware](https://info.lookout.com/rs/051-ESQ-475/images/lookout-pegasus-technical-analysis.pdf) | [Local](../../blob/master/2016/2016.08.25.lookout-pegasus-technical-analysis)
 * Aug 24 - [The Million Dollar Dissident: NSO Group’s iPhone Zero-Days used against a UAE Human Rights Defender](https://citizenlab.org/2016/08/million-dollar-dissident-iphone-zero-day-nso-group-uae/) | [Local](../../blob/master/2016/2016.08.24.million-dollar-dissident-iphone-zero-day-nso-group-uae)
 * Aug 17 - [Operation Ghoul: targeted attacks on industrial and engineering organizations](https://securelist.com/blog/research/75718/operation-ghoul-targeted-attacks-on-industrial-and-engineering-organizations/) | [Local](../../blob/master/2016/2016.08.17_operation-ghoul)
