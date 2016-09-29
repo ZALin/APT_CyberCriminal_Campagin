@@ -9,7 +9,8 @@ Please let me know if I lost some interesting APT or Malware campaigns.
 
 
 ## 2016
-* Set 18 - [Hunting Libyan Scorpions](https://cyberkov.com/wp-content/uploads/2016/09/Hunting-Libyan-Scorpions-EN.pdf) | [Local](../../blob/master/2016/2016.09.18.Hunting-Libyan-Scorpions)
+* Sep 26 - [Sofacy’s ‘Komplex’ OS X Trojan](http://researchcenter.paloaltonetworks.com/2016/09/unit42-sofacys-komplex-os-x-trojan/) | [Local](../../blob/master/2016/2016.09.26_Sofacy_Komplex_OSX_Trojan)
+* Sep 18 - [Hunting Libyan Scorpions](https://cyberkov.com/wp-content/uploads/2016/09/Hunting-Libyan-Scorpions-EN.pdf) | [Local](../../blob/master/2016/2016.09.18.Hunting-Libyan-Scorpions)
 * Sep 14 - [MILE TEA: Cyber Espionage Campaign Targets Asia Pacific Businesses and Government Agencies](http://researchcenter.paloaltonetworks.com/2016/09/mile-tea-cyber-espionage-campaign-targets-asia-pacific-businesses-and-government-agencies/) | [Local](../../blob/master/2016/2016.09.14.MILE_TEA)
 * Sep 01 - [MALWARE POSING AS HUMAN RIGHTS ORGANIZATIONS AND COMMERCIAL SOFTWARE TARGETING IRANIANS, FOREIGN POLICY INSTITUTIONS AND MIDDLE EASTERN COUNTRIES](https://iranthreats.github.io/resources/human-rights-impersonation-malware/) | [Local](../../blob/master/2016/2016.09.01.human-rights-impersonation-malware)
 * Aug 25 - [Technical Analysis of Pegasus Spyware](https://info.lookout.com/rs/051-ESQ-475/images/lookout-pegasus-technical-analysis.pdf) | [Local](../../blob/master/2016/2016.08.25.lookout-pegasus-technical-analysis)
