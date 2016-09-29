@@ -1,10 +1,11 @@
 ## APT & CyberCriminal Campaign Collection
 
 I collect data from [kbandla](https://github.com/kbandla/APTnotes) and other reseearchers.
+news: APTnotes going forward to [APTnotes](https://github.com/aptnotes/data)
 
 The great APT Groups data can be found from [Florian Roth](https://docs.google.com/spreadsheets/u/0/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml)
 
-Please let me know if I lost some interesting APT or Malware campaigns.   
+Please fire issues to me if I lost interesting APT or Malware campaigns.   
 
 
 
