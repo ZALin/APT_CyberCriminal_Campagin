@@ -10,6 +10,7 @@ Please fire issues to me if I lost interesting APT or Malware campaigns.
 
 
 ## 2016
+* Sep 29 - [China and Cyber: Attitudes, Strategies, Organisation](https://ccdcoe.org/sites/default/files/multimedia/pdf/CS_organisation_CHINA_092016.pdf) | [Local](../../blob/master/2016/2016.09.29.China_and_Cyber_Attitudes_Strategies_Organisation)
 * Sep 26 - [Sofacy’s ‘Komplex’ OS X Trojan](http://researchcenter.paloaltonetworks.com/2016/09/unit42-sofacys-komplex-os-x-trojan/) | [Local](../../blob/master/2016/2016.09.26_Sofacy_Komplex_OSX_Trojan)
 * Sep 18 - [Hunting Libyan Scorpions](https://cyberkov.com/wp-content/uploads/2016/09/Hunting-Libyan-Scorpions-EN.pdf) | [Local](../../blob/master/2016/2016.09.18.Hunting-Libyan-Scorpions)
 * Sep 14 - [MILE TEA: Cyber Espionage Campaign Targets Asia Pacific Businesses and Government Agencies](http://researchcenter.paloaltonetworks.com/2016/09/mile-tea-cyber-espionage-campaign-targets-asia-pacific-businesses-and-government-agencies/) | [Local](../../blob/master/2016/2016.09.14.MILE_TEA)
