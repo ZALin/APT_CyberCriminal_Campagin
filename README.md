@@ -10,6 +10,7 @@ Please fire issues to me if I lost interesting APT or Malware campaigns.
 
 
 ## 2016
+* Oct 20 - [En Route with Sednit Part 1: Approaching the Target](http://www.welivesecurity.com/wp-content/uploads/2016/10/eset-sednit-part1.pdf) |  [Local](../../blob/master/2016/22016.10.20.En_Route_with_Sednit)
 * Oct 17 - [ThreatConnect identifies Chinese targeting of two companies. Economic espionage or military intelligence? ](https://www.threatconnect.com/blog/threatconnect-discovers-chinese-apt-activity-in-europe/) | [Local](../../blob/master/2016/2016.10.16.A_Tale_of_Two_Targets)
 * Oct 03 - [On the StrongPity Waterhole Attacks Targeting Italian and Belgian Encryption Users](https://securelist.com/blog/research/76147/on-the-strongpity-waterhole-attacks-targeting-italian-and-belgian-encryption-users/) | [Local](../../blob/master/2016/2016.10.03.StrongPity)
 * Sep 29 - [China and Cyber: Attitudes, Strategies, Organisation](https://ccdcoe.org/sites/default/files/multimedia/pdf/CS_organisation_CHINA_092016.pdf) | [Local](../../blob/master/2016/2016.09.29.China_and_Cyber_Attitudes_Strategies_Organisation)
