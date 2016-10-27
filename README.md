@@ -10,6 +10,7 @@ Please fire issues to me if I lost interesting APT or Malware campaigns.
 
 
 ## 2016
+* Oct 26 - [Moonlight – Targeted attacks in the Middle East](http://blog.vectranetworks.com/blog/moonlight-middle-east-targeted-attacks) |  [Local](../../blob/master/2016/2016.10.26.Moonlight_Middle_East)
 * Oct 25 - [Lifting the lid on Sednit: A closer look at the software it uses](http://www.welivesecurity.com/wp-content/uploads/2016/10/eset-sednit-part-2.pdf) | [Local](../../blob/master/2016/2016.10.25.Lifting_the_lid_on_Sednit)
 * Oct 20 - [En Route with Sednit Part 1: Approaching the Target](http://www.welivesecurity.com/wp-content/uploads/2016/10/eset-sednit-part1.pdf) |  [Local](../../blob/master/2016/2016.10.20.En_Route_with_Sednit)
 * Oct 17 - [ThreatConnect identifies Chinese targeting of two companies. Economic espionage or military intelligence? ](https://www.threatconnect.com/blog/threatconnect-discovers-chinese-apt-activity-in-europe/) | [Local](../../blob/master/2016/2016.10.16.A_Tale_of_Two_Targets)
