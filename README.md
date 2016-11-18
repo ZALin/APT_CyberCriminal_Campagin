@@ -9,6 +9,7 @@ Please fire issues to me if I lost interesting APT or Malware campaigns.
 
 
 
+
 ## 2016
 * Nov 09 - [Down the H-W0rm Hole with Houdini's RAT](http://www.threatgeek.com/2016/11/down-the-h-w0rm-hole-with-houdinis-rat.html) | [Local](../../blob/master/2016/2016.11.09_down-the-h-w0rm-hole-with-houdinis-rat)
 * Oct 31 - [Emissary Trojan Changelog: Did Operation Lotus Blossom Cause It to Evolve?](http://researchcenter.paloaltonetworks.com/2016/02/emissary-trojan-changelog-did-operation-lotus-blossom-cause-it-to-evolve/) | [Local](../../blob/master/2016/2016.10.31.Emissary_Trojan_Changelog)
