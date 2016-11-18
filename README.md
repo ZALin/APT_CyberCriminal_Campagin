@@ -10,8 +10,9 @@ Please fire issues to me if I lost interesting APT or Malware campaigns.
 
 
 ## 2016
-* Oct 31 - [Emissary Trojan Changelog: Did Operation Lotus Blossom Cause It to Evolve?](http://researchcenter.paloaltonetworks.com/2016/02/emissary-trojan-changelog-did-operation-lotus-blossom-cause-it-to-evolve/) [Local](../../blob/master/2016/2016.10.31.Emissary_Trojan_Changelog)
-* Oct 26 - [Moonlight – Targeted attacks in the Middle East](http://blog.vectranetworks.com/blog/moonlight-middle-east-targeted-attacks) |  [Local](../../blob/master/2016/2016.10.26.Moonlight_Middle_East)
+* Nov 09 - [Down the H-W0rm Hole with Houdini's RAT](http://www.threatgeek.com/2016/11/down-the-h-w0rm-hole-with-houdinis-rat.html) | [Local](../../blob/master/2016/2016.11.09_down-the-h-w0rm-hole-with-houdinis-rat)
+* Oct 31 - [Emissary Trojan Changelog: Did Operation Lotus Blossom Cause It to Evolve?](http://researchcenter.paloaltonetworks.com/2016/02/emissary-trojan-changelog-did-operation-lotus-blossom-cause-it-to-evolve/) | [Local](../../blob/master/2016/2016.10.31.Emissary_Trojan_Changelog)
+* Oct 26 - [Moonlight – Targeted attacks in the Middle East](http://blog.vectranetworks.com/blog/moonlight-middle-east-targeted-attacks) | [Local](../../blob/master/2016/2016.10.26.Moonlight_Middle_East)
 * Oct 25 - [Lifting the lid on Sednit: A closer look at the software it uses](http://www.welivesecurity.com/wp-content/uploads/2016/10/eset-sednit-part-2.pdf) | [Local](../../blob/master/2016/2016.10.25.Lifting_the_lid_on_Sednit)
 * Oct 20 - [En Route with Sednit Part 1: Approaching the Target](http://www.welivesecurity.com/wp-content/uploads/2016/10/eset-sednit-part1.pdf) |  [Local](../../blob/master/2016/2016.10.20.En_Route_with_Sednit)
 * Oct 17 - [ThreatConnect identifies Chinese targeting of two companies. Economic espionage or military intelligence? ](https://www.threatconnect.com/blog/threatconnect-discovers-chinese-apt-activity-in-europe/) | [Local](../../blob/master/2016/2016.10.16.A_Tale_of_Two_Targets)
