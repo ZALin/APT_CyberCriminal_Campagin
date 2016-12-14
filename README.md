@@ -11,7 +11,8 @@ Please fire issues to me if I lost interesting APT or Malware campaigns.
 
 
 ## 2016
-* Nov 22 - [Tropic Trooper Targets Taiwanese Government and Fossil Fuel Provider With Poison Ivy](http://researchcenter.paloaltonetworks.com/2016/11/unit42-tropic-trooper-targets-taiwanese-government-and-fossil-fuel-provider-with-poison-ivy/) [Local](../../blob/master/2016/2016.11.22.tropic-trooper-targets-taiwanese-government-and-fossil-fuel-provider-with-poison-ivy)
+* Dec 13 - [The rise of TeleBots: Analyzing disruptive KillDisk attacks](http://www.welivesecurity.com/2016/12/13/rise-telebots-analyzing-disruptive-killdisk-attacks/) | [Local](../../blob/master/2016/2016.12.13.rise-telebots-analyzing-disruptive-killdisk-attacks)
+* Nov 22 - [Tropic Trooper Targets Taiwanese Government and Fossil Fuel Provider With Poison Ivy](http://researchcenter.paloaltonetworks.com/2016/11/unit42-tropic-trooper-targets-taiwanese-government-and-fossil-fuel-provider-with-poison-ivy/) | [Local](../../blob/master/2016/2016.11.22.tropic-trooper-targets-taiwanese-government-and-fossil-fuel-provider-with-poison-ivy)
 * Nov 09 - [Down the H-W0rm Hole with Houdini's RAT](http://www.threatgeek.com/2016/11/down-the-h-w0rm-hole-with-houdinis-rat.html) | [Local](../../blob/master/2016/2016.11.09_down-the-h-w0rm-hole-with-houdinis-rat)
 * Oct 31 - [Emissary Trojan Changelog: Did Operation Lotus Blossom Cause It to Evolve?](http://researchcenter.paloaltonetworks.com/2016/02/emissary-trojan-changelog-did-operation-lotus-blossom-cause-it-to-evolve/) | [Local](../../blob/master/2016/2016.10.31.Emissary_Trojan_Changelog)
 * Oct 26 - [Moonlight – Targeted attacks in the Middle East](http://blog.vectranetworks.com/blog/moonlight-middle-east-targeted-attacks) | [Local](../../blob/master/2016/2016.10.26.Moonlight_Middle_East)
