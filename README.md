@@ -11,6 +11,7 @@ Please fire issues to me if I lost interesting APT or Malware campaigns.
 
 
 ## 2016
+* Dec 15 - [PROMETHIUM and NEODYMIUM APT groups on Turkish citizens living in Turkey and various other European countries.](http://download.microsoft.com/download/E/B/0/EB0F50CC-989C-4B66-B7F6-68CD3DC90DE3/Microsoft_Security_Intelligence_Report_Volume_21_English.pdf) | [Local](../../blob/master/2016/2016.12.15.PROMETHIUM_and_NEODYMIUM)
 * Dec 13 - [The rise of TeleBots: Analyzing disruptive KillDisk attacks](http://www.welivesecurity.com/2016/12/13/rise-telebots-analyzing-disruptive-killdisk-attacks/) | [Local](../../blob/master/2016/2016.12.13.rise-telebots-analyzing-disruptive-killdisk-attacks)
 * Nov 22 - [Tropic Trooper Targets Taiwanese Government and Fossil Fuel Provider With Poison Ivy](http://researchcenter.paloaltonetworks.com/2016/11/unit42-tropic-trooper-targets-taiwanese-government-and-fossil-fuel-provider-with-poison-ivy/) | [Local](../../blob/master/2016/2016.11.22.tropic-trooper-targets-taiwanese-government-and-fossil-fuel-provider-with-poison-ivy)
 * Nov 09 - [Down the H-W0rm Hole with Houdini's RAT](http://www.threatgeek.com/2016/11/down-the-h-w0rm-hole-with-houdinis-rat.html) | [Local](../../blob/master/2016/2016.11.09_down-the-h-w0rm-hole-with-houdinis-rat)
