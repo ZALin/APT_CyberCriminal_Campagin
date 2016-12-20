@@ -1,11 +1,12 @@
 ## APT & CyberCriminal Campaign Collection
 
 I collect data from [kbandla](https://github.com/kbandla/APTnotes) and other reseearchers.
+
 news: APTnotes going forward to [APTnotes](https://github.com/aptnotes/data)
 
 The great APT Groups data can be found from [Florian Roth](https://docs.google.com/spreadsheets/u/0/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml)
 
-Please fire issues to me if I lost interesting APT or Malware campaigns.   
+Please fire issues to me if any lost of APT/Malware events/campaigns.   
 
 
 
@@ -20,7 +21,8 @@ Please fire issues to me if I lost interesting APT or Malware campaigns.
 * Oct 27 - [En Route with Sednit Part 3: A Mysterious Downloader](http://www.welivesecurity.com/wp-content/uploads/2016/10/eset-sednit-part3.pdf) | [Local](../../blob/master/2016/2016.10.27.En_Route_Part3)
 * Oct 27 - [BLACKGEAR Espionage Campaign Evolves, Adds Japan To Target List](http://blog.trendmicro.com/trendlabs-security-intelligence/blackgear-espionage-campaign-evolves-adds-japan-target-list/) | [Local](../../blob/master/2016/2016.10.27.BLACKGEAR_Espionage_Campaign_Evolves)
 * Oct 26 - [Moonlight – Targeted attacks in the Middle East](http://blog.vectranetworks.com/blog/moonlight-middle-east-targeted-attacks) | [Local](../../blob/master/2016/2016.10.26.Moonlight_Middle_East)
-* Oct 25 - [Lifting the lid on Sednit: A closer look at the software it uses](http://www.welivesecurity.com/wp-content/uploads/2016/10/eset-sednit-part-2.pdf) | [Local](../../blob/master/2016/2016.10.25.Lifting_the_lid_on_Sednit)
+* Oct 25 - [Houdini’s Magic Reappearance](http://researchcenter.paloaltonetworks.com/2016/10/unit42-houdinis-magic-reappearance/) | [Local](../../blob/master/2016/2016.10.25.Houdini_Magic_Reappearance)
+* Oct 25 - [En Route with Sednit Part 2: Lifting the lid on Sednit: A closer look at the software it uses](http://www.welivesecurity.com/wp-content/uploads/2016/10/eset-sednit-part-2.pdf) | [Local](../../blob/master/2016/2016.10.25.Lifting_the_lid_on_Sednit)
 * Oct 20 - [En Route with Sednit Part 1: Approaching the Target](http://www.welivesecurity.com/wp-content/uploads/2016/10/eset-sednit-part1.pdf) |  [Local](../../blob/master/2016/2016.10.20.En_Route_with_Sednit)
 * Oct 17 - [ThreatConnect identifies Chinese targeting of two companies. Economic espionage or military intelligence? ](https://www.threatconnect.com/blog/threatconnect-discovers-chinese-apt-activity-in-europe/) | [Local](../../blob/master/2016/2016.10.16.A_Tale_of_Two_Targets)
 * Oct 03 - [On the StrongPity Waterhole Attacks Targeting Italian and Belgian Encryption Users](https://securelist.com/blog/research/76147/on-the-strongpity-waterhole-attacks-targeting-italian-and-belgian-encryption-users/) | [Local](../../blob/master/2016/2016.10.03.StrongPity)
