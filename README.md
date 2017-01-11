@@ -10,6 +10,7 @@ Please fire issues to me if any lost of APT/Malware events/campaigns.
 
 
 ## 2017
+* Jan 09 - [Second Wave of Shamoon 2 Attacks Identified](http://researchcenter.paloaltonetworks.com/2017/01/unit42-second-wave-shamoon-2-attacks-identified/) | [Local](../../blob/master/2017/2017.01.09.second-wave-shamoon-2-attacks-identified)
 * Jan 05 - [Iranian Threat Agent OilRig Delivers Digitally Signed Malware, Impersonates University of Oxford](http://www.clearskysec.com/oilrig/) | [Local](../../blob/master/2017/2017.01.05.Iranian_Threat_Agent_OilRig)
 
 ## 2016
