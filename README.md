@@ -10,6 +10,7 @@ Please fire issues to me if any lost of APT/Malware events/campaigns.
 
 
 ## 2017
+* Feb 02 - [Oops, they did it again: APT Targets Russia and Belarus with ZeroT and PlugX](https://www.proofpoint.com/us/threat-insight/post/APT-targets-russia-belarus-zerot-plugx) | [Local](../../blob/master/2017/2017.02.02.APT_Targets_Russia_and_Belarus_with_ZeroT_and_PlugX)
 * Jan 12 - [The “EyePyramid” attacks](https://securelist.com/blog/incidents/77098/the-eyepyramid-attacks/) | [Local](../../blob/master/2017/2017.01.12.EyePyramid.attacks)
 * Jan 11 - [APT28: AT THE CENTER OF THE STORM](https://www.fireeye.com/blog/threat-research/2017/01/apt28_at_the_center.html) | [Local](../../blob/master/2017/2017.01.11.apt28_at_the_center)
 * Jan 09 - [Second Wave of Shamoon 2 Attacks Identified](http://researchcenter.paloaltonetworks.com/2017/01/unit42-second-wave-shamoon-2-attacks-identified/) | [Local](../../blob/master/2017/2017.01.09.second-wave-shamoon-2-attacks-identified)
